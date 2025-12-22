@@ -1,0 +1,6 @@
+What is branchs?
+koi bhi moduke ko box me wrap karna aur main branch me merge karna 
+
+command -> git checkout -b
+
+to make new file 
