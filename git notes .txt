@@ -1,6 +1,17 @@
 What is branchs?
 koi bhi moduke ko box me wrap karna aur main branch me merge karna 
 
-command -> git checkout -b
+steps to create branch and pull ->
 
-to make new file 
+1. make a branch -> git checkout -b {name of the branch}
+2. make a new file 
+3. check status -> git status
+4. add the file -> git add .
+5. commit the file -> git commit -m "First commit"
+6. push at the branch -> git push origin head
+7. at the github -> 1. click on compare and pull request
+                    2. click on create pull request
+                    3. click on merge pull request
+                    4. confirm merge
+8. switch to master -> git switch master
+9. to show the file in vscode -> git pull origin master 
