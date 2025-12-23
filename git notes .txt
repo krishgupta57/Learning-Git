@@ -16,3 +16,15 @@ steps to create branch and pull ->
 8. switch to master -> git switch master
 9. to show the file in vscode -> git pull origin master 
 
+Organization -> bulk of projects store in the same repo
+                defaulted private
+
+steps to make Organization ->
+1. go to organization
+2. click on new organization
+3. make your organization 
+4. invite your member 
+5. then make your repo and push the code 
+
+NOTE -> the member of your rep will able to see your file and code 
+        and you will be able to see your owner's file and code
