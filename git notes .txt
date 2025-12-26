@@ -28,3 +28,18 @@ steps to make Organization ->
 
 NOTE -> the member of your rep will able to see your file and code 
         and you will be able to see your owner's file and code
+
+Cloning-> git file ko apne local system me lana hai 
+
+steps ->
+
+1. to copy -> git clone (URL of that repo)
+2. to push code use branching
+
+NOTE -> to open vscode through terminal -> code .
+
+Forking -> kisi aur ki repo ka khud owner ban jaana 
+
+Steps->
+1. click on fork
+2. click on create fork (While forking we are able to change the name of repo)
